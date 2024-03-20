@@ -1,0 +1,39 @@
+{
+  "name": "web3world-integrity",
+  "version": "1.0.0",
+  "description": "Ensure integrity and security in the Web3 world with a comprehensive integrity checker tool.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/droll-version/web3world-integrity"
+  },
+  "author": "droll-version",
+  "license": "MIT",
+  "dependencies": {
+    "web3world-integrity": "1.0.0",
+    "web3world-integrity-checker": "1.0.0",
+    "solc": "1.0.0",
+    "eslint": "1.0.0",
+    "truffle": "1.0.0",
+    "debug": "1.0.0",
+    "async": "1.0.0",
+    "dotenv": "1.0.0",
+    "mongoose": "1.0.0",
+    "axios": "1.0.0",
+    "webpack": "1.0.0",
+    "react-dom": "1.0.0",
+    "commander": "1.0.0",
+    "validator": "1.0.0",
+    "sequelize": "1.0.0",
+    "react": "1.0.0",
+    "bcrypt": "1.0.0",
+    "moment": "1.0.0",
+    "mocha": "1.0.0",
+    "node-sass": "1.0.0",
+    "cheerio": "1.0.0",
+    "web3-utils": "1.0.0"
+  }
+}
